@@ -223,3 +223,6 @@ Here are some key points about barium:
 It's important to note that while I strive to provide accurate and up-to-date information,  
  the knowledge cutoff for this AI model is in September 2021. Therefore,  
   there may be some developments or discoveries about barium since then that I'm unaware of.  
+
+# Formulas:
+- barium sulfite: [SO2 + Ba → BaSO3](https://github.com/emeraldTable/Chemy/blob/main/Elements/Formulas/BaSO3.md)  
