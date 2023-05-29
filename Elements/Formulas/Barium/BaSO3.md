@@ -12,3 +12,19 @@
    Essa reação entre o dióxido de enxofre e o bário não é tão comum quanto a formação de outros compostos de bário,  
     como o sulfato de bário (BaSO4) ou o carbonato de bário (BaCO3).  
      O sulfito de bário é menos estável em comparação com o sulfato de bário, que é mais comumente encontrado.  
+
+O SMILES (Simplified Molecular Input Line Entry System)  
+ é uma notação química para representar de forma simplificada a estrutura de uma molécula  
+  usando caracteres alfanuméricos.  
+   No caso do bissulfito de bário (BaSO3), o SMILES correspondente é:  
+  
+    [O-]S(=O)[O-].[Ba+2]
+  
+Este SMILES indica que temos um íon sulfato (SO3) com carga negativa,   
+ ligado a um íon bário (Ba) com carga positiva.  
+  Os colchetes indicam que se trata de um íon.  
+
+Vale ressaltar que o SMILES é uma representação plana da molécula  
+ e não leva em consideração a geometria tridimensional.  
+  É importante ter em mente que o bissulfito de bário pode ter uma estrutura  
+   mais complexa em termos de conformações e arranjo espacial dos átomos.
