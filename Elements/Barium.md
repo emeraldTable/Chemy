@@ -225,4 +225,6 @@ It's important to note that while I strive to provide accurate and up-to-date in
   there may be some developments or discoveries about barium since then that I'm unaware of.  
 
 # Formulas:
-- barium sulfite: [SO2 + Ba → BaSO3](https://github.com/emeraldTable/Chemy/blob/main/Elements/Formulas/BaSO3.md)  
+- barium sulfite: [SO2 + Ba → BaSO3](https://github.com/emeraldTable/Chemy/blob/main/Elements/Formulas/Barium/BaSO3.md) 
+
+- Sulfurous Acid: [SO2 + H2O → H2SO3](https://github.com/emeraldTable/Chemy/blob/main/Elements/Formulas/Barium/H2SO3.md)  
